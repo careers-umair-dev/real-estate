@@ -57,5 +57,5 @@ Note: This will launch the application locally. Open your browser and visit 'htt
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Developed by
-Muhammad Umair
+This project is created by Muhammad Umair.
 
