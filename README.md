@@ -56,5 +56,6 @@ Note: This will launch the application locally. Open your browser and visit 'htt
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the MIT License.
+## Developed by
+Muhammad Umair
+
